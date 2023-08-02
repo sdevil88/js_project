@@ -1,4 +1,8 @@
 
-console.log("sagar ghimire");
-console.log("jkfoiajrol;igtj");
+let x=1;
+let y=2;
+let z=x+y;
+console.log(z);
+console.log("hii");
+
 
