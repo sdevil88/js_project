@@ -7,11 +7,11 @@ let z=x+y;
  
 if(z<=5)
 {
-    console.log("less then 5");
+    console.log("less then 5...");
     
 }
 else {
-    console.log("grater then 5");
+    console.log("grater then 5....");
 }
 
 
