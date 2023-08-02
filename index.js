@@ -41,8 +41,18 @@
 
 
 
-let a=1;
-for (a;a<10;a++)
-{
-    console.log(a);
-}
+// let a=1;
+// for (a;a<10;a++)
+// {
+//     console.log(a);
+// }
+
+
+// let a=2;
+
+// while(a<10)
+// {
+//     console.log(a);
+//     a++;
+// }
+
