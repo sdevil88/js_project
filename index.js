@@ -31,10 +31,10 @@
 //     alert("no class");
 // }
 
+//tornory operator
 
-
-
-
+//  const a=2;
+// a>0 ? alert("a is grater than 0") : alert("a is less than 0");
 
 
 
