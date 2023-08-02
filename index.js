@@ -37,5 +37,12 @@
 // a>0 ? alert("a is grater than 0") : alert("a is less than 0");
 
 
+// loop 
 
 
+
+let a=1;
+for (a;a<10;a++)
+{
+    console.log(a);
+}
