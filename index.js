@@ -1,17 +1,41 @@
+//for user input  - js interaction
 
-// x= prompt("enter first number");
-// y= prompt("enter second number")
-const x=6,y=2;
-let z=x+y;
- console.log(z);1
- 
-if(z<=5)
-{
-    console.log("less then 5...");
+// prompt("enter your name");
+// alert("hii ");
+// confirm("namaste")
+
+
+
+// const name = prompt("enter your name");
+// const password = prompt("enter your password");
+// const cpw = prompt("confirm your password");
+
+// if(password === cpw)
+// {
+//     alert("logged in");
+// }
+// else{
+//    alert(password + "is wrond password");
     
-}
-else {
-    console.log("grater then 5....");
-}
+// }
+
+
+
+
+// const hour = prompt("enter time");
+// if(hour>=13 && hour<=18)
+// {
+//     alert("class running");
+// }
+// else{
+//     alert("no class");
+// }
+
+
+
+
+
+
+
 
 
