@@ -72,9 +72,9 @@
 
 //switch case in js;
 
-// let a= prompt("enter first number");
-// let b= prompt("enter condition (/,*,+,-");
-// let c = prompt("enter second number");
+// let a= Number (prompt("enter first number"));
+// let b= (prompt("enter condition (/,*,+,-"));
+// let c = Number (prompt("enter second number"));
 // let d;
 
 // switch(b)
@@ -117,6 +117,27 @@
 // name();
 // name("user");
 
+
+// es6
+
+
+
+
+
+// const add = (a,b)=>
+// {
+//     console.log(a+b);
+// };
+// add(2,3);
+
+
+
+
+// date
+
+
+// const date = new Date();
+// console.log(date);
 
 
 
