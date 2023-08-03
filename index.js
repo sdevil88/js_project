@@ -61,12 +61,61 @@
 
 
 // do while
-a=1;
-do {
-    console.log(a);
-    a++;
-} while (a<=10);
+// a=1;
+// do {
+//     console.log(a);
+//     a++;
+// } while (a<=10);
 
+
+
+
+//switch case in js;
+
+// let a= prompt("enter first number");
+// let b= prompt("enter condition (/,*,+,-");
+// let c = prompt("enter second number");
+// let d;
+
+// switch(b)
+// {
+//     case '+':
+//     {
+//         d=a+c;
+//         console.log(d);
+//     }
+// }
+
+
+
+// function sagar()
+// {
+//    console.log("my name is sagar");
+// }
+// //sagar();
+
+
+// function name(sagar)
+// {
+//     console.log("hello ",sagar);
+// }
+
+// name("sagar");
+// sagar();
+
+
+
+
+// function name()
+// {
+//     console.log("hello");
+// }
+// function name(user)
+// {
+//     console.log("hello ",user);
+// }
+// name();
+// name("user");
 
 
 
