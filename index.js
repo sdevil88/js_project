@@ -145,26 +145,61 @@
 
 //object methods and properties functionality 
 
-const person = {
-    FirstName: "sagar",
-    LastName: "ghimire",
+// const person = {
+//     FirstName: "sagar",
+//     LastName: "ghimire",
 
-    // fullname :()=>{
-    //     return this.Firstname + " " + this.Lastname;
+//     fullname :()=>{
+//         //return this.Firstname + " " + this.Lastname;
+//         return person.FirstName+ " "+ person.LastName;
+//     }
+
+
+    // fullname: function()
+    // {
+    //     return this.FirstName+ " " + this.LastName;
     // }
 
 
-    fullname: function()
-    {
-        return this.FirstName+ " " + this.LastName;
-    }
+// };
+// let fname = person.FirstName;
+//  let name = person.fullname();
+//  console.log(fname);
+//  console.log(name)
 
 
-};
-let fname = person.FirstName;
- let name = person.fullname();
- console.log(fname);
- console.log(name)
+
+
+// const details={
+//     fn : "sagar",
+//     ln : "ghimire",
+
+//     fullname :()=> {
+//         return details.fn+ " " +details.ln
+//     }
+// }
+// let fname = details.fn+details.ln;
+// console.log(fname);
+// let nn = details.fullname();
+// document.write(nn);
+
+
+
+// const device = {
+//     name: "samsung",
+//     version: "6",
+//     release: "2020",
+
+//     mname: ()=>{
+//         return device.name+device.version+device.release
+//     },
+//     date :(old)=>{
+//         return device.date;
+//     }
+// }
+// const modeln = device.name;
+// console.log(modeln);
+
 
 
 
