@@ -142,3 +142,31 @@
 
 
 
+
+//object methods and properties functionality 
+
+const person = {
+    FirstName: "sagar",
+    LastName: "ghimire",
+
+    // fullname :()=>{
+    //     return this.Firstname + " " + this.Lastname;
+    // }
+
+
+    fullname: function()
+    {
+        return this.FirstName+ " " + this.LastName;
+    }
+
+
+};
+let fname = person.FirstName;
+ let name = person.fullname();
+ console.log(fname);
+ console.log(name)
+
+
+
+
+
